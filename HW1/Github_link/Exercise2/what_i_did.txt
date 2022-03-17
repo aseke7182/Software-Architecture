@@ -1,0 +1,2 @@
+altered old image and added ping utility to it.
+updated and created new image of updated one.
