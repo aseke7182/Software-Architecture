@@ -1,0 +1,10 @@
+FROM ubuntu
+
+COPY s.sh .
+
+RUN apt-get update \
+    && apt-get install -y curl  
+
+RUN chmod +x s.sh
+
+CMD ["./s.sh", "helsinki.fi" ]
