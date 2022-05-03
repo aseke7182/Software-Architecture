@@ -1,0 +1,6 @@
+Link for FlasApp in DockerHub:
+https://hub.docker.com/repository/docker/aseke7182/flask-app
+
+
+Or you can download it by:
+docker pull aseke7182/flask-app
